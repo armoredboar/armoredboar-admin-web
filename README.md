@@ -1,2 +1,2 @@
-# armoredboar-adminweb
+# armoredboar-admin-web
 Armoredboar administrative panel.
